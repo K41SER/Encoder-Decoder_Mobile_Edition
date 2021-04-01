@@ -1,0 +1,56 @@
+.double{display:grid;
+grid-template-columns:50% 50%}
+header{display:grid;
+grid-template-rows:;
+grid-template-columns:25% 50% 0%;
+background-image:url("https://i.ibb.co/k1b8Wjp/wallpaper-2.jpg");
+align-items:center;}
+
+
+h1{font-family: 'Syne Mono', monospace;
+color:#D92127;
+font-size:40px;
+background-colorblack;}
+
+a:hover{color:red;}
+a{color:#F2E1DF;}
+
+main{background-color:black;
+align-items:center;
+justify-content:center;
+display:grid;
+grid-template-columns:90%}
+
+p{color:#F2E1DF;}
+ol{color:#F2E1DF;
+background-color:black;
+font-family: 'Teko', sans-serif;
+font-size:24px;}
+
+h2{color:red;
+background-color:black;
+font-family: 'Hind', sans-serif;
+font-family: 'Teko', sans-serif;
+font-size:30px;}
+
+.hh{display:grid;
+grid-template-columns:15%}
+
+.lista{display:grid;
+grid-template-columns:90%;}
+
+.copyright{font-family: 'Hind', sans-serif;
+font-family: 'Teko', sans-serif;
+font-family: 'Varela Round', sans-serif;
+color:#CF4C4F;}
+
+.titulo{background-color:black;}
+
+.sub{
+	align-items:center;
+justify-content:center;}
+
+footer{background-color:#D43535;
+display:grid;
+grid-template-columns:}
+.footer{color:white;}
